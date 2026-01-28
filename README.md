@@ -16,6 +16,7 @@ Pelajari sesuai urutan untuk hasil terbaik:
 8. **[08_fungsi](08_fungsi)** - Fungsi dan return values
 9. **[09_struct](09_struct)** - Struct dan Method
 10. **[10_pointer](10_pointer)** - Pointer dan Memory Address
+11. **[11_error_handling](11_error_handling)** - Error Handling, Panic, dan Recover
 
 ## 🚀 Cara Menjalankan
 
