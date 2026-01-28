@@ -14,6 +14,7 @@ Pelajari sesuai urutan untuk hasil terbaik:
 6. **[06_array_slice](06_array_slice)** - Array dan Slice
 7. **[07_map](07_map)** - Map (key-value pair)
 8. **[08_fungsi](08_fungsi)** - Fungsi dan return values
+9. **[09_struct](09_struct)** - Struct dan Method
 
 ## 🚀 Cara Menjalankan
 
