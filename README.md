@@ -15,6 +15,7 @@ Pelajari sesuai urutan untuk hasil terbaik:
 7. **[07_map](07_map)** - Map (key-value pair)
 8. **[08_fungsi](08_fungsi)** - Fungsi dan return values
 9. **[09_struct](09_struct)** - Struct dan Method
+10. **[10_pointer](10_pointer)** - Pointer dan Memory Address
 
 ## 🚀 Cara Menjalankan
 
